@@ -5,7 +5,7 @@ A project for Department Of Electronics and Computer Engineering (DOECE), Pulcho
 - Aashish Karki   078bct004<br>
 - Arbashu Dhakal  078bct018<br>
 - Bindu Paudel    078bct032<br>
-- Krishant Timilsina 077bct045<br>
+- Krishant Timilsina 078bct045<br>
 
 ### Features To be added:<br>
 - 
